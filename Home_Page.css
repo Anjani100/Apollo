@@ -1,0 +1,149 @@
+@CHARSET "ISO-8859-1";
+h1{
+	color: darkslateblue;
+	position: absolute;
+	left: 170px;
+	top: 75px;
+	font-size: 25px;
+	font-family: 'Franklin Gothic Medium';
+}
+#header1{
+	color: darkslateblue;
+	position: absolute;
+	left: 420px;
+	top: 100px;
+	text-decoration: none;
+}
+#header2{
+	color: darkslateblue;
+	position: absolute;
+	left: 550px;
+	top: 100px;
+	text-decoration: none;
+}
+#header3{
+	color: darkslateblue;
+	position: absolute;
+	left: 670px;
+	top: 100px;
+	text-decoration: none;
+}
+#header4{
+	color: darkslateblue;
+	position: absolute;
+	left: 780px;
+	top: 100px;
+	text-decoration: none;
+}
+#header5{
+	color: darkslateblue;
+	position: absolute;
+	left: 920px;
+	top: 100px;
+	text-decoration: none;
+}
+#header6{
+	color: darkslateblue;
+	position: absolute;
+	left: 1090px;
+	top: 100px;
+	text-decoration: none;
+}
+#header7{
+	color: darkslateblue;
+	position: absolute;
+	left: 1200px;
+	top: 100px;
+	text-decoration: none;
+}
+#Reg{
+	position: absolute;
+	top: 95px;
+	left: 1280px;
+	height: 30px;
+	background-color: white;
+	border: 1px;
+	border-color: limegreen;
+	border-style: solid;
+	border-radius: 5px;
+	width: 100px;
+}
+#Reg:hover{
+	background-color: limegreen;
+	color: white;
+}
+#Sign_up{
+	position: absolute;
+	left: 200px;
+	top: 150px;
+	font-size: 30px;
+	font-family: 'Franklin Gothic Medium';
+	color: dimgrey;
+}
+#APD{
+	color: darkslateblue;
+	font-size: 25px;
+	font-family: 'Franklin Gothic Medium';
+	position: absolute;
+	left: 200px;
+	top: 200px;
+}
+textarea {
+  width: 800px;
+  height: 300px;
+  font-size: 18px;
+  font-family: 'Fra';
+  position: absolute;
+  top: 270px;
+  left: 200px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+#input2{
+	width: 100px;
+	position: absolute;
+	left: 530px;
+	top: 610px;
+	font-size: 25px;
+	height: 50px;
+	resize: none;
+	border: 1px;
+	border-style: solid;
+	border-color: limegreen;
+	border-radius: 3px;
+	background-color: limegreen;
+	color: white;
+	box-shadow: 2px 2px 2px grey;
+}
+#input2:hover {
+	background-color: green;
+}
+caption{
+	font-size: 25px;
+}
+table,th{
+  table-border: 1px; 
+  border-color: Black;
+}
+table{
+  border-collapse: collapse;
+  border-color: Black;
+  position: absolute;
+  left: 400px;
+  top: 300px;
+  width: 900px;
+  height: 70px;
+}
+th, tr, td{
+  padding: 10px;
+}
+thead{
+  background-color: grey;
+}
+tbody{
+  background-color: dimgrey;
+}
